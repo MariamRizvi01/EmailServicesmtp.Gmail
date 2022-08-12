@@ -3,7 +3,7 @@ Creating a Java Program by accessing Gmail's smtp, and sending out emails using 
 
 # Java Project - JAVA Mail Sender Service using GMAIL's smtp*
 
-**NOTE: Being that Google removed "Less App Security", it will not allow Third-Party interfaces/programs/apps to access private data because of security reasons.**
+**NOTE: On May 30th, 2022, Google removed "Less App Security", it will not allow Third-Party interfaces/programs/apps to access private data because of security reasons.**
 
 Submitted by: Mariam Rizvi
 
